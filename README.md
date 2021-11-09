@@ -1,4 +1,4 @@
-# <center> Project-Pima_Indian_Diabetes_Classification 💉</center>
+# <center> ML Project - Pima Indian Diabetes Detection 💉</center>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/140967414-b556e8ab-0322-4c77-a349-d83ce6d698a7.png" style="width: 600px;"/></p>
 
