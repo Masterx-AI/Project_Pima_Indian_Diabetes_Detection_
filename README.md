@@ -22,7 +22,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 ### Some Visuals of the Project:
 
 **1. Target Variable Distribution**
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/140968400-955f7936-5364-46e5-93ab-7f377967337d.png" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141677319-6a2b067d-f2df-4ad7-a783-ff12e92d4207.png" /></p>
 
 **2. Feature-set Distribution**
 
