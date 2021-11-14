@@ -26,8 +26,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 **2. Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/140968604-ada9ef59-72b0-4d34-9ca8-83df78c7234c.png)
-![image](https://user-images.githubusercontent.com/54996245/140968617-ceaa45a1-35cc-4d3e-bc72-3b8d221f2e1c.png)
+![image](https://user-images.githubusercontent.com/54996245/141677301-5eaaab92-136e-44a2-80d5-329c7249a045.png)
 
 **3. Relationship between the Feature-set**
 
