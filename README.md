@@ -1,4 +1,4 @@
-# <center> AI / ML Project - Pima Indian Diabetes Detection 💉</center>
+# <center> ★ AI / ML Project - Pima Indian Diabetes Detection ★</center>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/141647667-e005a6a7-8e8c-4395-bab1-9aee47bd4e3b.jpg" style="width: 1000px;"/></p>
 
