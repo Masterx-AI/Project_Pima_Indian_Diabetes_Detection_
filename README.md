@@ -22,11 +22,12 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 ### Some Visuals of the Project:
 
 **1. Target Variable Distribution**
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141677319-6a2b067d-f2df-4ad7-a783-ff12e92d4207.png" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141677346-76f5bbc2-d254-4dc2-b4bc-a969fe09b642.png" /></p>
 
 **2. Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/141677301-5eaaab92-136e-44a2-80d5-329c7249a045.png)
+![image](https://user-images.githubusercontent.com/54996245/141677354-190ccbe2-3700-49c9-a3d3-93bdad470b98.png)
+![image](https://user-images.githubusercontent.com/54996245/141677359-f894bf6e-3183-4336-913c-0eebf8527710.png)
 
 **3. Relationship between the Feature-set**
 
